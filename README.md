@@ -77,4 +77,5 @@ Weighing Machines </br>
 
 
 ### RESULT
-When the button is pressed,the LED turns on ;when released it turns off.
+A system for LED control using an Arduino microcontroller and a push button is designed and implemented successfully.
+
