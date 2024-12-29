@@ -1,4 +1,4 @@
-### NAME : VENKATA REVANTH.B
+### NAME : Venkata Revanth B
 ### REG NO : 24001476
 
 
